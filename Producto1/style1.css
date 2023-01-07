@@ -314,7 +314,7 @@ p {
 #services .service-bottom .icon {
 	height: 80px;
 	width: 80px;
-	margin-bottom: 20px;
+	margin: auto;
 }
 #services .service-item h2 {
 	font-size: 2rem;
