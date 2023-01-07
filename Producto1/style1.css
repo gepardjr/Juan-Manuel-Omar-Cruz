@@ -291,11 +291,12 @@ p {
 	align-items: flex-start;
 	justify-content: center;
 	flex-direction: column;
-	padding: 70px;
-	border-radius: 20px;
+	padding: 50px;
+	border-radius: 10px;
 	background-image: url(./img/img-1.png);
 	background-size: cover;
-	margin: 10px 5%;
+	margin-top: 10px;
+	margin-bottom: 20px;
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
