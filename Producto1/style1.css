@@ -321,11 +321,10 @@ p {
 	color: white;
 	margin-bottom: 10px;
 	text-transform: uppercase;
-	text-align: center;
 }
 #services .service-item p {
 	color: white;
-	text-align: center;
+	text-align: left;
 }
 /* End Services Section */
 
