@@ -295,8 +295,6 @@ p {
 	border-radius: 10px;
 	background-image: url(./img/img-1.png);
 	background-size: cover;
-	margin-top: 10px;
-	margin-bottom: 20px;
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
