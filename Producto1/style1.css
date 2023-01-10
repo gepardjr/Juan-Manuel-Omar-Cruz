@@ -324,8 +324,8 @@ p {
 	text-transform: uppercase;
 }
 #services .service-item p {
-	text-align: center;
 	color: white;
+	margin: 0 auto;
 }
 /* End Services Section */
 
