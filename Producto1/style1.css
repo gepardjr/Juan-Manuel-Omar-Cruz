@@ -317,15 +317,15 @@ p {
 	margin: 0 auto;
 }
 #services .service-item h2 {
+	text-align: center;
 	font-size: 2rem;
 	color: white;
 	margin-bottom: 10px;
 	text-transform: uppercase;
-	text-align: center;
 }
 #services .service-item p {
-	color: white;
 	text-align: center;
+	color: white;
 }
 /* End Services Section */
 
